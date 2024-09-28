@@ -1,0 +1,77 @@
+body {
+    font-style: sans serif;
+    background-color: lightblue;
+}
+header {
+   background-color: lightcoral; 
+   text-align: center;
+   font color: white;
+   border-radius: 15px 15px 15px 15px;
+-moz-border-radius: 15px 15px 15px 15px;
+-webkit-border-radius: 15px 15px 15px 15px;
+border: 2px solid #000000;
+}
+main {
+    border-bottom: 20px;
+}
+title {
+    padding: 20px;
+    align-items: center;
+    border-radius: 15px 15px 15px 15px;
+-moz-border-radius: 15px 15px 15px 15px;
+-webkit-border-radius: 15px 15px 15px 15px;
+border: 2px solid #000000;
+}
+h1 {
+    font-size: 19;
+    font color: black;
+}
+h2 {
+    font-size: 19;
+    font color: dark grey ;
+}
+ul {
+list-style: none;
+list line-height: 400%;
+}
+.bestseller {
+    background-color: aquamarine;
+    padding: 20px;
+    font-weight: 700 ;
+    border-radius: 15px 15px 15px 15px;
+-moz-border-radius: 15px 15px 15px 15px;
+-webkit-border-radius: 15px 15px 15px 15px;
+border: 2px solid #000000;
+}
+#fiction {
+    background-color: lightgoldenrodyellow;
+    padding: 20px;
+    font-weight: 700 ;
+    border-radius: 15px 15px 15px 15px;
+-moz-border-radius: 15px 15px 15px 15px;
+-webkit-border-radius: 15px 15px 15px 15px;
+border: 2px solid #000000;
+}
+#non-fiction {
+    background-color: lightcyan;
+    padding: 20px;
+    font-weight: 700 ;
+    border-radius: 15px 15px 15px 15px;
+-moz-border-radius: 15px 15px 15px 15px;
+-webkit-border-radius: 15px 15px 15px 15px;
+border: 2px solid #000000;
+}
+.seller {
+    background-color: lightpink;
+    padding: 20px;
+    font-weight: 700 ;
+    border-radius: 15px 15px 15px 15px;
+-moz-border-radius: 15px 15px 15px 15px;
+-webkit-border-radius: 15px 15px 15px 15px;
+border: 2px solid #000000;
+}
+footer {
+    font-style: italic;
+    text-align: center;
+    color: bold black;
+}
